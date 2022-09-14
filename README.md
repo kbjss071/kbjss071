@@ -3,11 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Web developer
 -------------
+Welcome to my GitHub account! I'm a recent graduate from Georgia Tech's Full-stack web development program. Also, I graduated from University of North Carolina at Greensboro with Bachelor of Science in Mathematics with Statistics concentration and with minor degree in Computer Science. I didn't land a software developer job yet, but my passion will pursue to land a job in IT industry. I'm excited to look forward myself hopping in the IT industry.
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [kbjss071@gmail.com](mailto:kbjss071@gmail.com)
 * 🖥️ See my portfolio at [Github pages](https://kbjss071.github.io/React-Portfolio/)
-*
 
 ### Skills
 
