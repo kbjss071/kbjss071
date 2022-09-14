@@ -6,6 +6,8 @@ Web developer
 
 * 🌍  I'm based in Atlanta, Georgia
 * ✉️  You can contact me at [kbjss071@gmail.com](mailto:kbjss071@gmail.com)
+* 🖥️ See my portfolio at [Github pages](https://kbjss071.github.io/React-Portfolio/)
+*
 
 ### Skills
 
